@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+}
+
+header {
+    background-color: rgb(35, 229, 171);
+    height: 100vh;
+    color: white;
+}
+
+header div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn-primary {
+    background-color: rgb(68, 177, 126);
+    border: none;
+}
+
+article {
+    margin: 10px;
+    margin-top: 50px;
+}
+
+ul {}
